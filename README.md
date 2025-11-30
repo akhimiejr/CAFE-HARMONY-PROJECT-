@@ -59,6 +59,13 @@ In stock levels, using red bars to highlight negative performance and green bars
 
 Stock shortages: Milk (-79), Tea Bags (-31).
 Surpluses: Sugar (+35), Sandwich Bread (+45).
+## 2.2.5 Staff Performance Analysis
+The chart below provides a comparative view of each employee’s overall productivity by displaying their Sum of Performance alongside their Average Sales Target, using red and blue horizontal bars respectively. Across all top five staff members Megan White, Elizabeth Johnson, William Harris, William Taylor, and David Smith the red bars are significantly longer than the blue ones, indicating that every employee is consistently exceeding their sales targets by a substantial margin. Megan White shows the strongest overall performance with a total of 11,095, followed closely by Elizabeth Johnson and William Harris, while David Smith stands out for having one of the higher sales targets yet still maintaining a robust performance level. The chart not only highlights individual strengths but also reflects a generally high performing team, demonstrating strong productivity, effective sales execution, and consistent surpassing of expectations across the board.
+
+<img width="485" height="325" alt="Screenshot 2025-11-30 115225" src="https://github.com/user-attachments/assets/5adfcd7b-d43b-480e-86c1-17b93725b686" />
+
+• Top performers: Megan White, Elizabeth Johnson.
+
 
 
 
