@@ -32,8 +32,14 @@ To address these challenges effectively, Our team applied Root Cause Analysis (R
 ## 2.2 Pivot Table Analysis
 The image below displays an Excel workbook transformed into a compact analytics dashboard using PivotTables, summary statistics, and visual charts to provide a comprehensive, data-driven overview of key business performance metrics for café Harmony. Several PivotTables are strategically arranged across the sheet, each focusing on different dimensions of business activities such as sales trends, product performance, customer behaviour, stock monitoring, and employee productively creating a modular structure that enables stakeholders to quickly interpret patterns and relationships within the data without needing to review raw tables.
 <img width="1905" height="650" alt="Screenshot 2025-11-30 100745" src="https://github.com/user-attachments/assets/8dc55990-6a82-4255-acb2-b8ebd2eb0620" />
-## 2.2.1 SALES PERFORMANCE
-<img width="447" height="81" alt="image" src="https://github.com/user-attachments/assets/40e8af8d-23a1-48dc-b409-a13928fd3037" />
+## 2.2.1 Sales Performance
+The Below Image shows aggregates total sales by month across the year, offering an insight of how revenue fluctuates throughout different periods. This enables the identification of seasonal patterns, such as peak months with high customer activity and quieter periods where sales naturally dip. By understanding these trends, the business can better assess the stability of its revenue streams and anticipate shifts in demand. These insights are valuable for making informed operational decisions, including adjusting staffing levels to match busy or slow periods, planning procurement to avoid overstocking or shortages, and designing targeted promotional strategies that align with periods of lower customer engagement or capitalise on high-traffic months.
+<img width="1146" height="433" alt="image" src="https://github.com/user-attachments/assets/f959cc17-acc7-4afd-b771-79439256a265" />
+• Total sales reached £12,589.95 across 1,003 customers.
+• Monthly sales peaked at £1,220.35 in August — strong mid-year growth.
+• Dip in October–November, suggesting seasonal fluctuations.
+
+
 
 
 
