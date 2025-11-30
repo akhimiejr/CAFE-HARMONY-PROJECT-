@@ -51,7 +51,7 @@ Sales are categorised by age group such as Adults, Young Adults, and Elderly pro
 
 <img width="503" height="371" alt="Screenshot 2025-11-13 204900" src="https://github.com/user-attachments/assets/e4210d1c-cc66-4874-aa83-792a7cdb912c" />
 
-• Customers age group:Adults (34%) 34–49 years, Elderly (33%) 50–65 years , Young Adults (32%) 18–33 years. From the percentage show we could see that the age group shows a balanced distribution across all three categories   
+• Customers age group: Adults (34%) 34–49 years, Elderly (33%) 50–65 years , Young Adults (32%) 18–33 years. From the percentage show we could see that the age group shows a balanced distribution across all three categories   
 
 
 
