@@ -45,6 +45,16 @@ The image below breaks down total sales by product categories such as Cappuccino
 
 • Top products: Muffin (£2,401.07),  Cappuccino (£2,315.06).
 • Lower performers: Sandwich (£1,836.78), Croissant (£1,845.26).
+## 2.2.3 Customer Demographics
+Sales are categorised by age group such as Adults, Young Adults, and Elderly providing a clear understanding of how much revenue each demographic segment contributes to the business. This type of segmentation offers valuable insight into the spending behaviour and preferences of different age groups, enabling the business to develop more targeted marketing campaigns that resonate with specific audiences. It also supports product customisation, as the business can tailor its offerings to better suit the tastes and needs of high-value or underserved segments. Furthermore, these insights help shape customer focused service strategies, allowing the business to adjust its approach such as communication style, promotional timing, or service deliveries to enhance the overall customer experience and strengthen engagement across all demographic groups.
+
+
+<img width="503" height="371" alt="Screenshot 2025-11-13 204900" src="https://github.com/user-attachments/assets/e4210d1c-cc66-4874-aa83-792a7cdb912c" />
+
+• Customers age group:Adults (34%) 34–49 years, Elderly (33%) 50–65 years , Young Adults (32%) 18–33 years. From the percentage show we could see that the age group shows a balanced distribution across all three categories   
+
+
+
 
 
 
