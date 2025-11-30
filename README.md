@@ -72,6 +72,11 @@ The chart illustrates how users distributed their feedback across a 1–5 rating
 
 Most ratings between
  3 to 5 stars stable satisfaction levels with an average of 3.05.
+# DASHBOARD
+The Cafe Harmony Sales & Performance Dashboard provides a comprehensive insight of the café’s overall business health, showing total sales of £12,589.95 generated from 1003 customers, with 10 main stock items tracked and an average customer rating of 3.05. Monthly sales trends reveal fluctuations throughout the year, peaking in May and dipping in March, while demographic data shows a nearly even distribution across young adults, adults, and elderly customers. Product performance highlights Muffins, Latte, and Iced Tea as top revenue generators, whereas items like Cappuccino and Sandwiches perform less strongly. Stock movement indicates high usage of milk, croissant dough, and iced tea bags, contrasted with increases in sugar and coffee beans. Staff performance displays notable variation, with high achievers like Megan White outperforming others. Rating analysis reveals a predominance of 4- and 5-star reviews despite the moderate overall average. Together, these insights show strong product engagement, steady customer traffic, opportunities for inventory optimization, and areas for staff development and service improvement.
+
+
+<img width="1482" height="503" alt="Screenshot 2025-11-23 130931" src="https://github.com/user-attachments/assets/d9183ddc-c3ff-469f-b6a0-1efb2f1cb0a1" />
 
 
 
