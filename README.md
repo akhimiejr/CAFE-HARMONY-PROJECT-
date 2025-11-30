@@ -6,17 +6,20 @@ Café Harmony has experienced rapid growth, which has led to increasing operatio
 # 1.2 Aim and Objective
 project aims to help Café Harmony make data-driven decisions by answering the business questions listed above and presenting your findings in a clear, visually appealing dashboard.
 The key aims are:
+
 1. Data Cleaning: Ensure all datasets are clean and ready for analysis.
 2. Data Analysis: Use Excel formulas (like SUMIF, COUNTIF, VLOOKUP, INDEX/MATCH) to analyze the data.
 3. Dashboarding: Create a dashboard that visually communicates the answers to the business questions using charts, pivot tables, and slicers.
 4. Business Insights: Provide recommendations for business decisions based on the data insights.
+   
 Objective of the buisness are:
-i. SALES PERFORMANCE- Outlook of the overall sales trend
-ii. PRODUCT PERFORMANCE- Top selling menu product generating the most revenue
-iii. CUSTOMER DEMOGRAPHICS- Customer demographic driving the highest sale
-iv. STOCK MANAGEMENT- Low running product across location
-v. EMPLOYEE PERFORMANCE-  below/above average sales
-vi. CUSTOMER FEEDBACK ANALYSIS- Customer satisfaction analysis
+
+1. SALES PERFORMANCE- Outlook of the overall sales trend
+2. PRODUCT PERFORMANCE- Top selling menu product generating the most revenue
+3. CUSTOMER DEMOGRAPHICS- Customer demographic driving the highest sale
+4. STOCK MANAGEMENT- Low running product across location
+5. EMPLOYEE PERFORMANCE-  below/above average sales
+6. CUSTOMER FEEDBACK ANALYSIS- Customer satisfaction analysis
 
 
 
