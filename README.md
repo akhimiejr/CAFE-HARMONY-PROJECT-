@@ -13,12 +13,15 @@ The key aims are:
 4. Business Insights: Provide recommendations for business decisions based on the data insights.
    
 Objective of the buisness are:
-1. SALES PERFORMANCE- Outlook of the overall sales trend
-2. PRODUCT PERFORMANCE- Top selling menu product generating the most revenue
-3. CUSTOMER DEMOGRAPHICS- Customer demographic driving the highest sale
-4. STOCK MANAGEMENT- Low running product across location
-5. EMPLOYEE PERFORMANCE-  below/above average sales
-6. CUSTOMER FEEDBACK ANALYSIS- Customer satisfaction analysis
+1. sales performance- outlook of the overall sales trend
+2. product performance- top selling menu product generating the most revenue
+3. customer demographics- customer demographic driving the highest sale
+4. stock management- low running product across location
+5. employee performance-  below/above average sales
+6. customer feedback analysis- customer satisfaction analysis
+   
+
+
 
 
 
