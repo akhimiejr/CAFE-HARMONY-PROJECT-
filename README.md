@@ -52,6 +52,14 @@ Sales are categorised by age group such as Adults, Young Adults, and Elderly pro
 <img width="503" height="371" alt="Screenshot 2025-11-13 204900" src="https://github.com/user-attachments/assets/e4210d1c-cc66-4874-aa83-792a7cdb912c" />
 
 • Customers age group: Adults (34%) 34–49 years, Elderly (33%) 50–65 years , Young Adults (32%) 18–33 years. From the percentage show we could see that the age group shows a balanced distribution across all three categories   
+## 2.2.4 Stock Management
+In stock levels, using red bars to highlight negative performance and green bars to show positive growth. Several items such as Milk, Iced Tea Bags, Croissant Dough, Muffin Mix, and Tea Bags shows significant declines, with Milk experiencing the steepest drop at –79, indicating substantial reductions in availability . Juice Concentrate sits at zero, reflecting stability with no change in stock levels. On the positive side, Lemon, Coffee Beans, Sugar, and Sandwich Bread demonstrate growth, with Sandwich Bread achieving the strongest increase at +45, suggesting rising demand or improved supply performance. Overall, the chart reveals a distinct contrast between the declining products on the left of which many are daily essentials or bakery related and the improving products on the right, emphasizing how inventory health varies sharply across categories.
+
+<img width="728" height="453" alt="image" src="https://github.com/user-attachments/assets/6d5d8e6d-232a-44f2-a38f-dd60481fa500" />
+
+Stock shortages: Milk (-79), Tea Bags (-31).
+Surpluses: Sugar (+35), Sandwich Bread (+45).
+
 
 
 
