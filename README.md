@@ -65,6 +65,14 @@ The chart below provides a comparative view of each employee’s overall product
 <img width="485" height="325" alt="Screenshot 2025-11-30 115225" src="https://github.com/user-attachments/assets/5adfcd7b-d43b-480e-86c1-17b93725b686" />
 
 • Top performers: Megan White, Elizabeth Johnson.
+## 2.2.6 Rating Analysis
+The chart illustrates how users distributed their feedback across a 1–5 rating scale, revealing a clear upward trend that reflects strong overall satisfaction. The number of ratings increases steadily from 190 at rating 1 to 376 at rating 2 and continues rising significantly to 618 at rating 3, showing that average feedback is fairly common. However, the sharp jump to 868 ratings at level 4 and the peak of 995 ratings at level 5 indicate that most users experienced highly positive interactions. This distribution demonstrates that negative feedback is minimal, while positive and very positive experiences dominate, suggesting strong performance, high-quality service, or a consistently favorable user experience.
+
+<img width="469" height="267" alt="Screenshot 2025-11-30 120046" src="https://github.com/user-attachments/assets/3f02f766-5117-46a7-97f1-49a42a17d0ac" />
+
+Most ratings between
+ 3 to 5 stars stable satisfaction levels with an average of 3.05.
+
 
 
 
