@@ -32,6 +32,9 @@ To address these challenges effectively, Our team applied Root Cause Analysis (R
 ## 2.2 Pivot Table Analysis
 The image below displays an Excel workbook transformed into a compact analytics dashboard using PivotTables, summary statistics, and visual charts to provide a comprehensive, data-driven overview of key business performance metrics for café Harmony. Several PivotTables are strategically arranged across the sheet, each focusing on different dimensions of business activities such as sales trends, product performance, customer behaviour, stock monitoring, and employee productively creating a modular structure that enables stakeholders to quickly interpret patterns and relationships within the data without needing to review raw tables.
 <img width="1905" height="650" alt="Screenshot 2025-11-30 100745" src="https://github.com/user-attachments/assets/8dc55990-6a82-4255-acb2-b8ebd2eb0620" />
+## 2.2.1 SALES PERFORMANCE
+<img width="447" height="81" alt="image" src="https://github.com/user-attachments/assets/40e8af8d-23a1-48dc-b409-a13928fd3037" />
+
 
 
 
