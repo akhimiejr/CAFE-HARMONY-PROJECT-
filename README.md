@@ -7,6 +7,7 @@ Café Harmony has experienced rapid growth, which has led to increasing operatio
 project aims to help Café Harmony make data-driven decisions by answering the business questions listed above and presenting your findings in a clear, visually appealing dashboard.
 The key aims are:
 i. Data Cleaning: Ensure all datasets are clean and ready for analysis.
+
 ii. Data Analysis: Use Excel formulas (like SUMIF, COUNTIF, VLOOKUP, INDEX/MATCH) to analyze the data.
 iii. Dashboarding: Create a dashboard that visually communicates the answers to the business questions using charts, pivot tables, and slicers.
 iv. Business Insights: Provide recommendations for business decisions based on the data insights.
