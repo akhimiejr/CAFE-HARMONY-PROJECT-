@@ -26,6 +26,13 @@ Provided with an Excel file containing multiple datasets, including:
 3. Employee Data: Information about employees (e.g., name, role, salary, location).
 4. Stock Data: Inventory of raw materials and supplies needed to prepare the café's menu items.
 5. Feedback Data: Customer satisfaction ratings and comments after each purchase.
+# 2. Analysis
+## 2.1 Problem Solving Techniques
+To address these challenges effectively, Our team applied Root Cause Analysis (RCA) to identify the underlying sources of inefficiency, Lean Management principles to streamline operations and reduce waste, and Data-Driven Decision Making (DDDM) to monitor sales trends and performance metrics. We also adopted Continuous Improvement (Kaizen) in supporting sustainability, long-term operational excellence, while Customer analysis can help refine service delivery and elevate customer satisfaction.
+
+
+
+
 
 
    
