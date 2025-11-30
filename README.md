@@ -41,6 +41,7 @@ The Below Image shows aggregates total sales by month across the year, offering 
 ## 2.2.2 Product Performance
 The image below breaks down total sales by product categories such as Cappuccino and Muffin providing a clear view of how each item contributes to overall revenue. This detailed breakdown enables the identification of both best-selling and underperforming products, allowing the business to recognise which items consistently drive sales and which may require improvement or removal. By understanding these performance differences, managers can make informed decisions on menu optimisation, adjust pricing strategies to better reflect demand, and develop targeted promotions that highlight popular items or boost interest in less frequently purchased ones. Also, this analysis offers valuable insight into broader customer demand patterns, helping the business tailor its product offerings to better meet customer preferences and enhance overall profitability.
 <img width="421" height="289" alt="Screenshot 2025-11-30 104013" src="https://github.com/user-attachments/assets/7b704149-2711-4e58-b5da-1411109da116" />
+
 • Top products: Muffin (£2,401.07),  Cappuccino (£2,315.06).
 • Lower performers: Sandwich (£1,836.78), Croissant (£1,845.26).
 
