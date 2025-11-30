@@ -19,6 +19,15 @@ Objective of the buisness are:
 4. stock management- low running product across location
 5. employee performance-  below/above average sales
 6. customer feedback analysis- customer satisfaction analysis
+# 1.3 Data Description
+Provided with an Excel file containing multiple datasets, including:
+1. Sales Data: Contains information on sales transactions across different locations, including items sold, prices, quantities, and sales dates.
+2. Customer Data: Customer details such as age, gender, location, and preferred drink items.
+3. Employee Data: Information about employees (e.g., name, role, salary, location).
+4. Stock Data: Inventory of raw materials and supplies needed to prepare the café's menu items.
+5. Feedback Data: Customer satisfaction ratings and comments after each purchase.
+
+
    
 
 
